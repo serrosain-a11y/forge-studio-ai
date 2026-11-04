@@ -3,7 +3,7 @@
 AI-assisted Roblox development that talks to Roblox Studio directly. Describe what you want,
 watch the scripts land in your place, and keep every setting you already made.
 
-**Website:** https://heinz-5sqvxm5ptod.qoder.website
+**Website:** https://forge-studio-ai-5sqvxm5ptod.qoder.website
 **Latest Windows installer:** https://github.com/serrosain-a11y/forge-studio-ai/releases/latest
 
 ## What it does
