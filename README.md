@@ -18,7 +18,7 @@ watch the scripts land in your place, and keep every setting you already made.
 
 ## Install
 
-1. Download `Forge-Studio-AI-Setup-0.16.31.exe` from the latest release.
+1. Download `Forge-Studio-AI-Setup-0.16.32.exe` from the latest release.
 2. Run it. Windows warns because the build is unsigned — choose **More info → Run anyway**.
 3. Open Roblox Studio, then start Forge Studio AI and connect.
 
